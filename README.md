@@ -8,15 +8,7 @@ I’m Brazilian, based in London. Native Portuguese, bilingual English and Spani
 
 My main skills right now are:
 
-Front-End;
-UX/UI;
-JavaScript (ES6+);
-HTML;
-CSS;
-React.js;
-Node.js;
-Figma;
-Responsive web design.
+Front-End | UX/UI | JavaScript (ES6+) | HTML | CSS | React.js | Node.js | Figma | Responsive web design
 
 I’m currently learning Typescript (and loving it!). 
 
