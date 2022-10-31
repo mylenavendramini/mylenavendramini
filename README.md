@@ -2,7 +2,7 @@ Hi 👋
 
 My name is Mylena Vendramini, I'm a Front End Developer, passionate about building digital experiences, creating websites and fixing some bugs 👩🏻‍💻. 
 
-You can take a look at my portfolio website at www.mylenavendramini.com. You can also find me on [Linkedin](https://www.linkedin.com/in/mylena-vendramini-frontenddeveloper/) and [Twitter](https://twitter.com/mmvendramini). 
+You can take a look at my portfolio website at www.mylenavendramini.com. You can also find me on [Linkedin](https://www.linkedin.com/in/mylenavendramini/) and [Twitter](https://twitter.com/mmvendramini). 
 
 I’m Brazilian, based in London. Native Portuguese, bilingual English and Spanish.
 
