@@ -1,13 +1,12 @@
-Hi 👋 
+## Hi 👋 
 
-##
 #### My name is Mylena Vendramini, I'm a Front End Developer, passionate about building digital experiences, creating websites and fixing some bugs 👩🏻‍💻. 
 
 I’m Brazilian, based in London. Native Portuguese, bilingual English and Spanish.
 
-You can take a look at my portfolio website at www.mylenavendramini.com. 
+Take a look at my portfolio at www.mylenavendramini.com. 
 
-## My main skills right now are:
+## Skills:
 
 JavaScript (ES6+) | HTML | CSS | React | Typescript | Node.js | Git | Figma | UX/UI | Responsive web design
 
