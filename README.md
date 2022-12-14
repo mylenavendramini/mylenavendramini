@@ -1,16 +1,41 @@
 Hi 👋 
 
-My name is Mylena Vendramini, I'm a Front End Developer, passionate about building digital experiences, creating websites and fixing some bugs 👩🏻‍💻. 
-
-You can take a look at my portfolio website at www.mylenavendramini.com. You can also find me on [Linkedin](https://www.linkedin.com/in/mylenavendramini/) and [Twitter](https://twitter.com/mmvendramini). 
+##
+#### My name is Mylena Vendramini, I'm a Front End Developer, passionate about building digital experiences, creating websites and fixing some bugs 👩🏻‍💻. 
 
 I’m Brazilian, based in London. Native Portuguese, bilingual English and Spanish.
 
-My main skills right now are:
+You can take a look at my portfolio website at www.mylenavendramini.com. 
 
-Front-End | UX/UI | JavaScript (ES6+) | HTML | CSS | React.js | Node.js | Figma | Responsive web design
+## My main skills right now are:
 
-I’m currently learning Typescript (and loving it!). 
+JavaScript (ES6+) | HTML | CSS | React | Typescript | Node.js | Git | Figma | UX/UI | Responsive web design
+
+## Main Projects (completed):
+
+[This Author](https://this-author.netlify.app/):
+**React | JavaScript**
+
+My first website using React. With this project, I put into practice everything I learned about components, hooks, roots and much more. The site is a display of a writer's books and biography. Using React was a good choice to show a page with all the books, another with some categories and another one with the book itself.
+
+[Projects List](https://github.com/mylenavendramini/Projects-List): 
+**Typescript**
+
+A simple application where you can interact with the page, adding projects to the list and dragging them from one box to another.
+
+[Toda Cidadã](https://todacidada.com/): 
+**React | JavaScript**
+
+An intuitive and easily accessible website of an NGO (Toda Cidadã), which I developed from scratch and am constantly maintaining.
+
+## Projects (on going):
+[Gym app](https://github.com/mylenavendramini/gym-app): **React | Typescript**
+
+An application where the user can choose a ready-made workout or include it own exercises. In both options, it can set the repetitions, weight and intervals and then convert it to PDF or send via email.
+
+## Where you can find me?
+
+You can find me on [Linkedin](https://www.linkedin.com/in/mylenavendramini/) and [Twitter](https://twitter.com/mmvendramini). 
 
 <!---
 mylenavendramini/mylenavendramini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
