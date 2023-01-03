@@ -30,7 +30,7 @@ An intuitive and easily accessible website of an NGO (Toda Cidadã), which I dev
 ## Projects (on going):
 [Gym app](https://github.com/mylenavendramini/gym-app): **React | Typescript**
 
-An application where the user can choose a ready-made workout or include it own exercises. In both options, it can set the repetitions, weight and intervals and then convert it to PDF or send via email.
+An application where the user can choose a ready-made workout or include it own exercises. In both options, it can set the repetitions, weight and intervals and then send via email.
 
 ## Where you can find me?
 
