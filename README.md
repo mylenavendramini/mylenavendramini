@@ -32,6 +32,10 @@ An intuitive and easily accessible website of an NGO (Toda Cidadã), which I dev
 
 An application where the user can choose a ready-made workout or include it own exercises. In both options, it can set the repetitions, weight and intervals and then send via email.
 
+[Gym app - authentication](https://github.com/mylenavendramini/gym-app-node): **JavaScript | Node.js | Express | MongoDB **
+
+Another version of the Gym App using back-end.
+
 [Javascript Quiz](https://javascript-quiz-mv.netlify.app/): **React | Typescript**
 
 In this app, the user can practice some JavaScript important concepts.
