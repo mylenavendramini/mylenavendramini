@@ -1,50 +1,50 @@
-## Hi 👋 
 
-#### My name is Mylena Vendramini, I'm a Front End Developer, passionate about building digital experiences, creating websites and fixing some bugs 👩🏻‍💻. 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mylena Vendramini
+=========================================================================================================================================
 
-I’m Italian and Brazilian, based in London. Native Portuguese, bilingual English and Spanish.
+Full Stack Software Engineer
+----------------------------
 
-Take a look at my portfolio at www.mylenavendramini.com. 
+I'm passionate about building digital experiences, learning new languages and frameworks, and take up new challenges. Collaborating with a team is something I truly enjoy, as it fosters creativity and enables us to achieve great results together.
 
-## Skills:
+* 🌍  I'm based in London.
+* 🖥️  See my portfolio at [mylenavendramini](http://mylenavendramini.com)
+* ✉️  You can contact me at [myvendramini@gmail.com](mailto:myvendramini@gmail.com)
+* 🤝  I'm open to collaborating on full stack projects.
 
-JavaScript (ES6+) | HTML | CSS | React | Typescript | Node.js | Express | MongoDB | Git | Figma | UX/UI | Responsive web design
+### Skills
 
-## Main Projects (completed):
 
-[This Author](https://this-author.netlify.app/):
-**React | JavaScript**
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
+<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+</p>
 
-My first website using React. With this project, I put into practice everything I learned about components, hooks, roots and much more. The site is a display of a writer's books and biography. Using React was a good choice to show a page with all the books, another with some categories and another one with the book itself.
 
-[Projects List](https://github.com/mylenavendramini/Projects-List): 
-**Typescript**
+### Socials
 
-A simple application where you can interact with the page, adding projects to the list and dragging them from one box to another.
+<p align="left"> <a href="https://www.github.com/mylenavendramini" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mylenavendramini/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/mmvendramini" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-[Toda Cidadã](https://todacidada.com/): 
-**React | JavaScript**
+### Badges
 
-An intuitive and easily accessible website of an NGO (Toda Cidadã), which I developed from scratch and am constantly maintaining.
+<b>My GitHub Stats</b>
 
-## Projects (on going):
-[Gym app](https://github.com/mylenavendramini/gym-app): **React | Typescript**
+<a href="http://www.github.com/mylenavendramini"><img src="https://github-readme-stats.vercel.app/api?username=mylenavendramini&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mylenavendramini's GitHub stats" /></a>
 
-An application where the user can choose a ready-made workout or include it own exercises. In both options, it can set the repetitions, weight and intervals and then send via email.
+<b>Top Repositories</b>
 
-[Gym app - authentication](https://busy-gray-gecko-garb.cyclic.app/): **JavaScript | Node.js | Express | MongoDB**
-
-Another version of the Gym App using back-end.
-
-[Javascript Quiz](https://javascript-quiz-mv.netlify.app/): **React | Typescript**
-
-In this app, the user can practice some JavaScript important concepts.
-
-## Where you can find me?
-
-You can find me on [Linkedin](https://www.linkedin.com/in/mylenavendramini/) and [Twitter](https://twitter.com/mmvendramini). 
-
-<!---
-mylenavendramini/mylenavendramini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div width="100%" align="center"><a href="https://github.com/mylenavendramini/DocCareApp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mylenavendramini&repo=DocCareApp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/mylenavendramini/wonderlist" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mylenavendramini&repo=wonderlist&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
